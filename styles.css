@@ -29,8 +29,8 @@ section {
     align-items: center;
     min-height: 100vh;
     /* padding: 150px 100px 100px; */
-    transition: ease-in-out;
-    transition-duration: 1000ms;
+    /* transition: ease-in-out;
+    transition-duration: 1000ms; */
     overflow-x: auto;
 }
 .hero{
@@ -78,6 +78,29 @@ section {
     transition: ease-in-out;
     transition-duration: 1000ms;
 }
+
+.kata-kata {
+    background-color: black;
+    width: 100%;
+    position: absolute;
+}
+.kata-kata .ucapan h2{
+    align-items: center;
+    margin-left: 3rem;
+    justify-content: center;
+}
+.kata-kata .ucapan p{
+    padding: 50px 50px 10px 50px ;
+    font-size: 2rem;
+    font-family: 'Tangerine';
+    text-align: justify;
+    color: white;
+}
+
+
+
+
+
 @media screen and (max-width: 400px)  {
     
     .sub-headline{
