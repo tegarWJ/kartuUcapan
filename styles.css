@@ -34,13 +34,16 @@ section {
     transition-duration: 1000ms; */
     overflow-x: auto;
 }
+.audio{
+    display: none;
+}
 .hero{
     width: 100%;
     align-items: center;
     justify-content: center;
     background-size: cover;
     position: relative;
-    background-image: url(hero.jpg);
+    background-image: url(hero1.png);
 
 }
 .headline{
