@@ -128,7 +128,7 @@ section {
         font-size: 4rem;
     }
     .kata-kata .ucapan .sub-ucapan {
-        font-size: 20px;
+        font-size: 15px;
     }
     .kata-kata .ucapan .headline {
         margin-top: 4rem;
@@ -147,11 +147,11 @@ section {
         font-size: 4rem;
     }
     .kata-kata .ucapan .sub-ucapan {
-        font-size: 20px;
+        font-size: 15px;
     }
     .kata-kata .ucapan .headline {
         margin-top: 4rem;
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 }
 
@@ -166,11 +166,11 @@ section {
         font-size: 5rem;
     }
     .kata-kata .ucapan .sub-ucapan {
-        font-size: 20px;
+        font-size: 18px;
     }
     .kata-kata .ucapan .headline {
         margin-top: 4rem;
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 }
 
